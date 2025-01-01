@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 </div>
 
-### Frameworks
+### Frameworks, Libraries, and Runtime Environment
 <div>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?&logo=angularjs&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white" alt="Express.js">
