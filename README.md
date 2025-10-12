@@ -63,17 +63,22 @@
 
 # 🎯 Featured Projects
 
-### 🧩 [Sudoku.Bovi](https://sudoku-web-psi.vercel.app/)
-A responsive web-based Sudoku game built with **Next.js** and **Tailwind CSS**.  
-Demonstrates skills in **interactive UI**, **state management**, and **responsive design**, deployed seamlessly on **Vercel**.
-
 ### 💊 [PharmaCheck](https://pharma-check-wheat.vercel.app/)
 A health information website integrated with the **Indonesian Ministry of Health’s BPOM API**.  
 Designed to help professionals and students verify **medicines and medical devices** legally distributed in Indonesia.
 
+### 🧩 [Sudoku.Bovi](https://sudoku-web-psi.vercel.app/)
+A responsive web-based Sudoku game built with **Next.js** and **Tailwind CSS**.  
+Demonstrates skills in **interactive UI**, **state management**, and **responsive design**, deployed seamlessly on **Vercel**.
+
+### 🧩 [TicTacToe.Bovi](https://tictactoe-web-nine.vercel.app/)
+A responsive web-based TicTacToe game built with **Next.js** and **Tailwind CSS**.  
+Demonstrates skills in **interactive UI**, **state management**, and **responsive design**, deployed seamlessly on **Vercel**.
+
 ---
 
 > 💬 “Good code is its own best documentation.” — Steve McConnell
+
 <!---
 BoviliusMeidi/BoviliusMeidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
