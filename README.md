@@ -63,6 +63,10 @@
 
 # 🎯 Featured Projects
 
+### 💼 [Portfolio Website](https://portfolio-boviliusmeidis-projects.vercel.app/)
+A personal portfolio built with **React.JS** and **Tailwind CSS** to showcase my projects, skills, and experience. 
+Designed with a **responsive layout** and **modern UI** for an elegant and **user-friendly** presentation across all devices with deployed seamlessly on **Vercel**.
+
 ### 💊 [PharmaCheck](https://pharma-check-wheat.vercel.app/)
 A health information website integrated with the **Indonesian Ministry of Health’s BPOM API**.  
 Designed to help professionals and students verify **medicines and medical devices** legally distributed in Indonesia.
