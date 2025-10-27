@@ -79,6 +79,10 @@ Demonstrates skills in **interactive UI**, **state management**, and **responsiv
 A responsive web-based TicTacToe game built with **Next.js** and **Tailwind CSS**.  
 Demonstrates skills in **interactive UI**, **state management**, and **responsive design**, deployed seamlessly on **Vercel**.
 
+### 🌸 [InspireFlow](https://inspireflow-web.vercel.app/)
+A minimalist quote app that **delivers daily** and **random inspirational** quotes through a calm, pastel-gradient interface. 
+Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, **InspireFlow** blends motivation with elegant design helping you start your day with positivity and focus.
+
 ---
 
 > 💬 “Good code is its own best documentation.” — Steve McConnell
