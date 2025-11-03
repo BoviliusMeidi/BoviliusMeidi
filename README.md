@@ -67,6 +67,9 @@
 A personal portfolio built with **React.JS** and **Tailwind CSS** to showcase my projects, skills, and experience. 
 Designed with a **responsive layout** and **modern UI** for an elegant and **user-friendly** presentation across all devices with deployed seamlessly on **Vercel**.
 
+### 🏸 [Badminton Scoreboard](https://badmintonscore-web.vercel.app/)
+A modern badminton scoreboard website for singles & doubles, built with **Next.js/Tailwind CSS** and deployed on **Vercel**. Accurately implements BWF serving/receiving rules, tracks score, sets, and match time. Features include live stats, point-by-point history, undo, and a detailed match summary.
+
 ### 💊 [PharmaCheck](https://pharma-check-wheat.vercel.app/)
 A health information website integrated with the **Indonesian Ministry of Health’s BPOM API**.  
 Designed to help professionals and students verify **medicines and medical devices** legally distributed in Indonesia.
