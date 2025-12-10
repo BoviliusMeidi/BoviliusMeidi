@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BoviliusMeidi&show_icons=true&theme=dark" alt="GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoviliusMeidi&layout=compact&theme=dark" alt="Top Langs" height="175" />
 </div> -->
-[![GitHub Card](https://githubcard.com/boviliusmeidi.svg?d=Z8qiM_8a)](https://github.com/boviliusmeidi)
+[![GitHub Card](https://githubcard.com/boviliusmeidi.svg?d=d58CGQc3)](https://github.com/boviliusmeidi)
 
 # 🎯 Featured Projects
 
